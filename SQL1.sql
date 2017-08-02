@@ -6,3 +6,5 @@
  INSERT INTO table1 VALUES(("张三"，1),("李四"，2))
 
  select * from table1;
+
+ select name from table1;
